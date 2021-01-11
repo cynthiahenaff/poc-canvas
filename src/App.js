@@ -71,17 +71,15 @@ const initialItems = [
     width: 50,
     height: 50,
     id: 1,
-    imageURL:
-      'https://images.unsplash.com/photo-1501004318641-b39e6451bec6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2166&q=80',
+    imageURL: 'https://www.datocms-assets.com/21735/1580398225-418-pink-8x.png',
   },
   {
-    x: 100,
-    y: 200,
     width: 150,
     height: 150,
     id: 2,
-    imageURL:
-      'https://images.unsplash.com/photo-1501004318641-b39e6451bec6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2166&q=80',
+    imageURL: 'https://www.datocms-assets.com/22029/1581155473-cryptoshark.png',
+    x: 300,
+    y: 500,
   },
 ];
 
